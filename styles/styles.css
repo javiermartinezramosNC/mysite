@@ -255,3 +255,9 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+/* This targets any section that has the 'light-blue' class */
+.section.light-blue-background {
+  background-color: #e3f2fd;
+  padding: 40px 0; /* Adds some breathing room at the top and bottom */
+}
