@@ -13,7 +13,7 @@
 }
 
 .cards.light-blue > ul > li {
-  background-color: #e3f2fd;
+  background-color: #e3f2fd; --variation with light blue color
 }
 
 .cards .cards-card-body {
