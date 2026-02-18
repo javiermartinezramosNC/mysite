@@ -29,21 +29,3 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
-
-/* Style for Bold links to look like buttons */
-.cards .cards-card-body strong a {
-  display: inline-block;
-  background-color: #007bff; /* Agilent Blue or a shade of your choice */
-  color: #ffffff;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-decoration: none;
-  font-weight: bold;
-  margin-top: 15px;
-  transition: background-color 0.3s ease;
-}
-
-/* Hover effect */
-.cards .cards-card-body strong a:hover {
-  background-color: #0056b3;
-}
